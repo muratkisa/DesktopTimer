@@ -8,4 +8,4 @@ It keeps all its settings in memory for you, but you have to run it in administr
 
 ## A photo of the application
 
-![Digital Clock](https://github.com/muratkisa/DesktopTimer/img/bg.png)
+![Digital Clock](https://github.com/muratkisa/DesktopTimer/blob/main/img/bg.png)
